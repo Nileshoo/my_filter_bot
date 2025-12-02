@@ -8,7 +8,6 @@ cinemagoer
 search_engine_parser
 wget
 aiofiles
-ffmpeg
 requests
 aiohttp
 ujson
